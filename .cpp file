@@ -1920,7 +1920,7 @@ Data<string,string> d1(key,text1[i]); //anything other than filter level are tak
 		if(a[1]==0)
 		cout<<"THERE IS NO SUCH ELEMENT/STRING"<<endl<<endl;
 		else
-		cout<<"INDUVIDUAL NO OF TIMES FIRST STRING PRESENT IS "<<a[1]<<endl<<endl;
+		cout<<"INDUVIDUAL NO OF TIMES SECOND STRING PRESENT IS "<<a[1]<<endl<<endl;
 		cout<<"NUMBER OF TIMES BOTH THE STRING "<<su1<<" & "<<su2<<"ARE SEEN TOGEATHER IS "<<a[2]<<endl<<endl;
 		if(a[0]!=0 && a[1]!=0)
 		{
