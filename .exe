@@ -1,0 +1,869 @@
+ubuntu@ip-172-31-4-144:~$ vi 84143_project.cpp
+ubuntu@ip-172-31-4-144:~$ g++ 84143_project.cpp -o 84143_project
+ubuntu@ip-172-31-4-144:~$ ./84143_project
+
+INSERT text1
+________________________________________________________________
+text :: I wanna go see  Iron Iron Man 3 tonight
+
+Text is
+
+I       wanna   go      see             Iron    Iron    Man     3       tonight
+
+INSERT text2
+________________________________________________________________
+text :: RT @HannahMenzies: Featuring @mattfraction on The Beat today from Iron Man 50th panel!
+http://t.co/qHNJMKjNl9
+
+Text is
+
+RT      @HannahMenzies: Featuring       @mattfraction   on      The     Beat    today   from    Iron    Man     50th    panel!
+http://t.co/qHNJMKjNl9
+
+INSERT text3
+________________________________________________________________
+text :: Iron Man 3 tonight! Woo :)
+
+Text is
+
+Iron    Man     3       tonight!        Woo     :)
+
+INSERT text4
+________________________________________________________________
+text :: Preciso ver Iron Man 3 todos comentando e eu boiando kk
+
+Text is
+
+Preciso ver     Iron    Man     3       todos   comentando      e       eu      boiando kk
+
+INSERT text5
+________________________________________________________________
+text :: 'Iron Man 3' Crushes Opening Day Records In China:
+Iron Man 3 has continued its record-breaking run at the... http://t.co/sAX3MsJjlE
+
+Text is
+
+'Iron   Man     3'      Crushes Opening Day     Records In      China:
+Iron    Man     3       has     continued       its     record-breaking run     at      the...  http://t.co/sAX3MsJjlE
+
+INSERT text6
+________________________________________________________________
+text :: I wanna go see iron man 3 tonight
+
+Text is
+
+I       wanna   go      see     iron    man     3       tonight
+
+INSERT text7
+________________________________________________________________
+text :: RT @HannahMenzies: Featuring @mattfraction on The Beat today from Iron Man 50th panel!
+http://t.co/qHNJMKjNl9
+
+Text is
+
+RT      @HannahMenzies: Featuring       @mattfraction   on      The     Beat    today   from    Iron    Man     50th    panel!
+http://t.co/qHNJMKjNl9
+
+INSERT text8
+________________________________________________________________
+text :: RT @puthatasstowork: ce soir, go to look Iron Man 3! :D
+
+Text is
+
+RT      @puthatasstowork:       ce      soir,   go      to      look    Iron    Man     3!      :D
+
+INSERT text9
+________________________________________________________________
+text :: RT @intan_krunch: Cian ea :p RT @rerearmadian: Sampe hari ini belum nonton Iron Man 3, merasa sangat cupuuu -_- http://t.co/s44J5qjRQu
+
+Text is
+
+RT      @intan_krunch:  Cian    ea      :p      RT      @rerearmadian:  Sampe   hari    ini     belum   nonton  Iron    Man     3,      merasa  sangat  cupuuu  -_-     http://t.co/s44J5qjRQu
+
+INSERT text10
+________________________________________________________________
+text :: Iron Man 3 by Paolo Rivera http://t.co/UXMG8NoRwk
+
+Text is
+
+Iron    Man     3       by      Paolo   Rivera  http://t.co/UXMG8NoRwk
+
+INSERT text11
+________________________________________________________________
+text :: Iron Man 3 was terrible.
+#notimpressed
+
+Text is
+
+Iron    Man     3       was     terrible.
+#notimpressed
+
+INSERT text12
+________________________________________________________________
+text :: I'm giving scene by scene spoilers for Iron Man 3, tonight.
+
+Text is
+
+I'm     giving  scene   by      scene   spoilers        for     Iron    Man     3,      tonight.
+
+INSERT text13
+________________________________________________________________
+text :: RT @MichaelNewShoes: Irom man 3 can suck me, the first iron man was great
+
+Text is
+
+RT      @MichaelNewShoes:       Irom    man     3       can     suck    me,     the     first   iron    man     was     great
+
+INSERT text14
+________________________________________________________________
+text :: I unlocked the Marvel's Iron Man 3 Coming Soon sticker on #GetGlue! http://t.co/wSJ9SLQRQ3
+
+Text is
+
+I       unlocked        the     Marvel's        Iron    Man     3       Coming  Soon    sticker on      #GetGlue!       http://t.co/wSJ9SLQRQ3
+
+INSERT text15
+________________________________________________________________
+text :: If you're watching Iron Man 3, I'm jealous and I hate you.
+
+Text is
+
+If      you're  watching        Iron    Man     3,      I'm     jealous and     I       hate    you.
+
+INSERT text16
+________________________________________________________________
+text :: Iron Man 3 was good but as a comic nerd it could have been.better
+
+Text is
+
+Iron    Man     3       was     good    but     as      a       comic   nerd    it      could   have    been.better
+
+INSERT text17
+________________________________________________________________
+text :: IRON MAN 3 in theaters everywhere 5/3..that is tomorrow!! I loved it and so will you!! #IronManEvent Who will be your fav character?
+
+Text is
+
+IRON    MAN     3       in      theaters        everywhere      5/3..that       is      tomorrow!!      I       loved   it      and     so      will    you!!   #IronManEvent   Who     will   be       your    fav     character?
+
+INSERT text18
+________________________________________________________________
+text :: 3D lah mas, demi Tuhan RT @AriaWigunaAdhiP: Mending IRON MAN 3 yang 3D atau yang biasa aja??
+
+Text is
+
+3D      lah     mas,    demi    Tuhan   RT      @AriaWigunaAdhiP:       Mending IRON    MAN     3       yang    3D      atau    yang    biasa   aja??
+
+INSERT text19
+________________________________________________________________
+text :: Iron Man 3 3D IMAX w/ @DanielAbro929 @jennakaskorkis
+
+Text is
+
+Iron    Man     3       3D      IMAX    w/      @DanielAbro929  @jennakaskorkis
+
+INSERT text20
+________________________________________________________________
+text :: quiero ver iron man 3
+
+Text is
+
+quiero  ver     iron    man     3
+
+INSERT text21
+________________________________________________________________
+text :: IRON MAN 3 This Weekend ?
+
+Text is
+
+IRON    MAN     3       This    Weekend ?
+
+INSERT text22
+________________________________________________________________
+text :: Robert Downey Jr. es como el whiskey, el ron y el vino, con los aÃ±os se pone mejor.
+
+Text is
+
+Robert  Downey  Jr.     es      como    el      whiskey,        el      ron     y       el      vino,   con     los     aÃ±os   se      pone    mejor.
+
+INSERT text23
+________________________________________________________________
+text :: First Look At Ben Kingsley In ENDER\u2019S GAME  http://t.co/xNP36EwnLD #movies #news
+
+Text is
+
+First   Look    At      Ben     Kingsley        In      ENDER\u2019S    GAME            http://t.co/xNP36EwnLD  #movies #news
+
+INSERT text24
+________________________________________________________________
+text :: Iron Man 3 with @AliciaRenee93 !
+
+Text is
+
+Iron    Man     3       with    @AliciaRenee93  !
+
+INSERT text25
+________________________________________________________________
+text :: Dear everyone that is going to the Iron Man 3 midnight premier tonight,
+I hate you all.
+
+Text is
+
+Dear    everyone        that    is      going   to      the     Iron    Man     3       midnight        premier tonight,
+I       hate    you     all.
+
+INSERT text26
+________________________________________________________________
+text :: quiero ver Iron Man 3, pero nadie me apaÃ±a
+
+Text is
+
+quiero  ver     Iron    Man     3,      pero    nadie   me      apaÃ±a
+
+INSERT text27
+________________________________________________________________
+text :: 3 days til my bro KE get out. 17 days til my birthday. And Iron Man 3 come out tomorrow. I FUCKS WIT MAY
+
+Text is
+
+3       days    til     my      bro     KE      get     out.    17      days    til     my      birthday.       And     Iron    Man     3       come    out     tomorrow.       I       FUCKS  WIT      MAY
+
+INSERT text28
+________________________________________________________________
+text :: RT @GilbertBrooks: &lt;--- so jealous "@Byrd_Man13: Iron man 3 premier!! #favoritesuperhero"
+
+Text is
+
+RT      @GilbertBrooks: &lt;--- so      jealous "@Byrd_Man13:   Iron    man     3       premier!!       #favoritesuperhero"
+
+INSERT text29
+________________________________________________________________
+text :: RT @nerdinity: Suiting up for Iron Man 3 tonight. Who's with me? @Iron_Man @Marvel @AgentM #letsdothis http://t.co/FbM0cELYYU
+
+Text is
+
+RT      @nerdinity:     Suiting up      for     Iron    Man     3       tonight.        Who's   with    me?     @Iron_Man       @Marvel @AgentM #letsdothis     http://t.co/FbM0cELYYU
+
+INSERT text30
+________________________________________________________________
+text :: If you seeing iron man 3 tonight don't spoil it for me
+
+Text is
+
+If      you     seeing  iron    man     3       tonight don't   spoil   it      for     me
+
+INSERT text31
+________________________________________________________________
+text :: I'm at Regal Severance Town Center Stadium 14 - @regalmovies for Iron Man 3 (Cleveland Hts, OH) http://t.co/Az1jBHKJhN
+
+Text is
+
+I'm     at      Regal   Severance       Town    Center  Stadium 14      -       @regalmovies    for     Iron    Man     3       (Cleveland      Hts,    OH)     http://t.co/Az1jBHKJhN
+
+INSERT text32
+________________________________________________________________
+text :: handak nonton,tapi me antrinya panjang banar RT @annissaaa_n: "@BioskopBanjar: IRON MAN 3 3D | (cont) http://t.co/XtFsuWzyCk
+
+Text is
+
+handak  nonton,tapi     me      antrinya        panjang banar   RT      @annissaaa_n:   "@BioskopBanjar:        IRON    MAN     3       3D      |       (cont)  http://t.co/XtFsuWzyCk
+
+INSERT text33
+________________________________________________________________
+text :: Headed to go watch Iron Man 3 with this awesome guy! We're pumped!! http://t.co/yGO3DzGZHQ
+
+Text is
+
+Headed  to      go      watch   Iron    Man     3       with    this    awesome guy!    We're   pumped!!        http://t.co/yGO3DzGZHQ
+
+INSERT text34
+________________________________________________________________
+text :: Anybody wanna see iron man 3 with me tomorrow
+
+Text is
+
+Anybody wanna   see     iron    man     3       with    me      tomorrow
+
+INSERT text35
+________________________________________________________________
+text :: I unlocked the Marvel's Iron Man 3 Coming Soon sticker on #GetGlue! http://t.co/2FMwBKCJns
+
+Text is
+
+I       unlocked        the     Marvel's        Iron    Man     3       Coming  Soon    sticker on      #GetGlue!       http://t.co/2FMwBKCJns
+
+INSERT text36
+________________________________________________________________
+text :: Iron man 3 with my baby @Annnnnna_Mae http://t.co/206lO6GQ4l
+
+Text is
+
+Iron    man     3       with    my      baby    @Annnnnna_Mae   http://t.co/206lO6GQ4l
+
+INSERT text37
+________________________________________________________________
+text :: Even though I don't really wanna see it that bad, I'm probably gonna watch Iron Man 3 anyway
+
+Text is
+
+Even    though  I       don't   really  wanna   see     it      that    bad,    I'm     probably        gonna   watch   Iron    Man     3       anyway
+
+INSERT text38
+________________________________________________________________
+text :: RT @MeganNickles: FINALLY!!! IRON MAN 3!!! ðŸ˜ŽðŸ˜ŽðŸ˜Ž
+
+Text is
+
+RT      @MeganNickles:  FINALLY!!!      IRON    MAN     3!!!    ðŸ˜ŽðŸ˜ŽðŸ˜Ž
+
+INSERT text39
+________________________________________________________________
+text :: Wooo iron man 3 930 is the new midnight apparently
+
+Text is
+
+Wooo    iron    man     3       930     is      the     new     midnight        apparently
+
+INSERT text40
+________________________________________________________________
+text :: Iron Man 3 after work tonight!ðŸ˜ðŸ˜ #MidnightPremiere
+
+Text is
+
+Iron    Man     3       after   work    tonight!ðŸ˜ðŸ˜  #MidnightPremiere
+
+INSERT text41
+________________________________________________________________
+text :: How are ppl watching iron man 3 tonight when it comes out tomorrow ?
+
+Text is
+
+How     are     ppl     watching        iron    man     3       tonight when    it      comes   out     tomorrow        ?
+
+INSERT text42
+________________________________________________________________
+text :: \u201c@VI_hustla: I ain't see Iron Man 1 or 2, so I can't see 3.\u201d---Ain too late dude! Shit Crazy!
+
+Text is
+
+\u201c@VI_hustla:       I       ain't   see     Iron    Man     1       or      2,      so      I       can't   see     3.\u201d---Ain  too     late    dude!   Shit    Crazy!
+
+INSERT text43
+________________________________________________________________
+text :: Photo: Me and @eugewarrock are instagramming each other waiting another hour for Iron Man 3. (at Malco... http://t.co/arkai68UkM
+
+Text is
+
+Photo:  Me      and     @eugewarrock    are     instagramming   each    other   waiting another hour    for     Iron    Man     3.      (at     Malco...        http://t.co/arkai68UkM
+
+INSERT text44
+________________________________________________________________
+text :: I unlocked the Marvel's Iron Man 3 Coming Soon sticker on #GetGlue! http://t.co/Sn5WhSo6fX
+
+Text is
+
+I       unlocked        the     Marvel's        Iron    Man     3       Coming  Soon    sticker on      #GetGlue!       http://t.co/Sn5WhSo6fX
+
+INSERT text45
+________________________________________________________________
+text :: RT @IFukdYurBish: \u201c@Pikachuu_x3: I want to watch Iron Man 3 tomorrow\u201d im going to see it lol
+
+Text is
+
+RT      @IFukdYurBish:  \u201c@Pikachuu_x3:     I       want    to      watch   Iron    Man     3       tomorrow\u201d  im      going   to      see     it      lol
+
+INSERT text46
+________________________________________________________________
+text :: Iron Man 3 (@ AMC Castleton Square 14 - @amctheatres w/ 13 others) http://t.co/PSofopYHms
+
+Text is
+
+Iron    Man     3       (@      AMC     Castleton       Square  14      -       @amctheatres    w/      13      others) http://t.co/PSofopYHms
+
+INSERT text47
+________________________________________________________________
+text :: Iron man 3 tomorrow!
+
+Text is
+
+Iron    man     3       tomorrow!
+
+INSERT text48
+________________________________________________________________
+text :: Iron Man 3 in approximately 20 minutes #impumped
+
+Text is
+
+Iron    Man     3       in      approximately   20      minutes #impumped
+
+INSERT text49
+________________________________________________________________
+text :: Lol yup get ur ass to the movies RT @Shant860: ðŸ‘€ RT @classWitsumSass: Iron Man 3 is AMAZING!!! Must see
+
+Text is
+
+Lol     yup     get     ur      ass     to      the     movies  RT      @Shant860:      ðŸ‘€    RT      @classWitsumSass:       Iron    Man     3       is      AMAZING!!!      Must    see
+
+INSERT text50
+________________________________________________________________
+text :: So many commercials. with Kent (@ AMC Metreon 16 - @amctheatres for Iron Man 3: An IMAX 3D Experience) http://t.co/NQAlOZwXME
+
+Text is
+
+So      many    commercials.    with    Kent    (@      AMC     Metreon 16      -       @amctheatres    for     Iron    Man     3:      An      IMAX    3D      Experience)     http://t.co/NQAlOZwXME
+
+INSERT text51
+________________________________________________________________
+text :: Iron Man 3 on IMAX tomorrow!
+
+Text is
+
+Iron    Man     3       on      IMAX    tomorrow!
+
+INSERT text52
+________________________________________________________________
+text :: "@Jive_AssCharles: I'm not trying to see Iron Man 3 in a packed theater with all those walruses around me. Got me facked up." Real shit
+
+Text is
+
+"@Jive_AssCharles:      I'm     not     trying  to      see     Iron    Man     3       in      a       packed  theater with    all     those   walruses        around  me.     Got     me     facked   up."    Real    shit
+
+INSERT text53
+________________________________________________________________
+text :: Iron Man 3. âœŒâœŒ
+
+Text is
+
+Iron    Man     3.      âœŒâœŒ
+
+INSERT text54
+________________________________________________________________
+text :: Iron Man 3 tonight! http://t.co/dFMPCIEiPZ
+
+Text is
+
+Iron    Man     3       tonight!        http://t.co/dFMPCIEiPZ
+
+INSERT text55
+________________________________________________________________
+text :: Iron Man 3 was FREAKING AMAZING!!!!!!!!!!!
+
+Text is
+
+Iron    Man     3       was     FREAKING        AMAZING!!!!!!!!!!!
+
+INSERT text56
+________________________________________________________________
+text :: \u201c@BimAfrido26: cecillecs ohh. 2 atau 3 taun lagi itu udah ada calonnya ya pasti? AMin..\u201d ya doain aja semoga ada yg mirip tony stark
+
+Text is
+
+\u201c@BimAfrido26:     cecillecs       ohh.    2       atau    3       taun    lagi    itu     udah    ada     calonnya        ya      pasti?  AMin..\u201d    ya      doain   aja     semoga ada      yg      mirip   tony    stark
+
+INSERT text57
+________________________________________________________________
+text :: RT @FilmZick: à¸›à¸£à¸°à¸˜à¸²à¸™ Marvel Studios à¹€à¸œà¸¢à¸„à¸§à¸²à¸¡à¹€à¸›à¹‡à¸™à¹„à¸›à¹„à¸”à¹‰à¸‚à¸­à¸‡ The Avengers 2 à¸«à¸¥à¸±à¸‡à¸ˆà¸²à¸ Iron Man 3 http://t.co/KbgXuCV2wV #movietwit
+
+Text is
+
+RT      @FilmZick:      à¸›à¸£à¸°à¸˜à¸²à¸™      Marvel  Studios à¹€à¸œà¸¢à¸„à¸§à¸²à¸¡à¹€à¸›à¹‡à¸™à¹„à¸›à¹„à¸”à¹‰à¸‚à¸­à¸‡       The     Avengers        2       à¸«à¸¥à¸±à¸‡à¸ˆà¸²à¸    Iron   Man      3       http://t.co/KbgXuCV2wV  #movietwit
+
+INSERT text58
+________________________________________________________________
+text :: I'm at AMC Barton Creek Square 14 - @amctheatres for Iron Man 3: An IMAX 3D Experience (Austin, TX) w/ 12 others http://t.co/Tv9hyS2Iv1
+
+Text is
+
+I'm     at      AMC     Barton  Creek   Square  14      -       @amctheatres    for     Iron    Man     3:      An      IMAX    3D      Experience      (Austin,        TX)     w/      12     others   http://t.co/Tv9hyS2Iv1
+
+INSERT text59
+________________________________________________________________
+text :: RT @samAfuckingA: Iron man 3 was so fucking good.
+
+Text is
+
+RT      @samAfuckingA:  Iron    man     3       was     so      fucking good.
+
+INSERT text60
+________________________________________________________________
+text :: My brother saw Iron Man 3. Now he\u2019s calling #nope
+
+Text is
+
+My      brother saw     Iron    Man     3.      Now     he\u2019s       calling #nope
+
+INSERT text61
+________________________________________________________________
+text :: RT @samAfuckingA: Iron man 3 was so fucking good.
+
+Text is
+
+RT      @samAfuckingA:  Iron    man     3       was     so      fucking good.
+
+INSERT text62
+________________________________________________________________
+text :: I wanna see iron man 3
+
+Text is
+
+I       wanna   see     iron    man     3
+
+INSERT text63
+________________________________________________________________
+text :: Nah-_-"@landakgaul: Byk yg pamer udah nonton Iron Man 3, tp dirahasiain nonton sama siapa. Paling sama keluarga atau tmn geng yg jomblo jg."
+
+Text is
+
+Nah-_-"@landakgaul:     Byk     yg      pamer   udah    nonton  Iron    Man     3,      tp      dirahasiain     nonton  sama    siapa.  Paling  sama    keluarga        atau    tmn     geng   yg       jomblo  jg."
+
+INSERT text64
+________________________________________________________________
+text :: kalo temen.a cewe sm aja boong lah yah "@karindafebriani: @laoeraaa walaupun single nonton iron man 3 gak sendirian , masih ada
+
+Text is
+
+kalo    temen.a cewe    sm      aja     boong   lah     yah     "@karindafebriani:      @laoeraaa       walaupun        single  nonton  iron    man     3       gak     sendirian       ,      masih    ada
+
+INSERT text65
+________________________________________________________________
+text :: RT @samAfuckingA: Iron man 3 was so fucking good.
+
+Text is
+
+RT      @samAfuckingA:  Iron    man     3       was     so      fucking good.
+
+INSERT text66
+________________________________________________________________
+text :: I wanna see Iron Man 3 ðŸ˜«ðŸ˜­
+
+Text is
+
+I       wanna   see     Iron    Man     3       ðŸ˜«ðŸ˜­
+
+INSERT text67
+________________________________________________________________
+text :: Alguien gusta ir conmigo a ver iron man 3 ? :)
+
+Text is
+
+Alguien gusta   ir      conmigo a       ver     iron    man     3       ?       :)
+
+INSERT text68
+________________________________________________________________
+text :: To go see iron man 3 or to go to sleep????
+
+Text is
+
+To      go      see     iron    man     3       or      to      go      to      sleep????
+
+INSERT text69
+________________________________________________________________
+text :: I'm gonna need to rewatch Iron Man and Iron Man 2 before I see Iron Man 3 ðŸ˜³
+
+Text is
+
+I'm     gonna   need    to      rewatch Iron    Man     and     Iron    Man     2       before  I       see     Iron    Man     3       ðŸ˜³
+
+INSERT text70
+________________________________________________________________
+text :: RT @LAyLOw_562: Midnight premiere for iron man 3 tonight :)
+
+Text is
+
+RT      @LAyLOw_562:    Midnight        premiere        for     iron    man     3       tonight :)
+
+INSERT text71
+________________________________________________________________
+text :: No he's really man not always superhero:D "@samAfuckingA: Iron man 3 was so fucking good."
+
+Text is
+
+No      he's    really  man     not     always  superhero:D     "@samAfuckingA: Iron    man     3       was     so      fucking good."
+
+INSERT text72
+________________________________________________________________
+text :: Iron man 3 with osasu and fricke =)
+
+Text is
+
+Iron    man     3       with    osasu   and     fricke  =)
+
+INSERT text73
+________________________________________________________________
+text :: IRON MAN 3!!!!! With bestie @msqueenstephani and @elizasea and other people I can't @ tag
+
+Text is
+
+IRON    MAN     3!!!!!  With    bestie  @msqueenstephani        and     @elizasea       and     other   people  I       can't   @       tag
+
+INSERT text74
+________________________________________________________________
+text :: IRON MAN 3 MIDNIGHT SHOWING #LEGGO
+
+Text is
+
+IRON    MAN     3       MIDNIGHT        SHOWING #LEGGO
+
+INSERT text75
+________________________________________________________________
+text :: Iron Man 3: The Miami Vice Christmas Special
+
+Text is
+
+Iron    Man     3:      The     Miami   Vice    Christmas       Special
+
+INSERT text76
+________________________________________________________________
+text :: Watching Iron Man 3! For free!
+
+Text is
+
+Watching        Iron    Man     3!      For     free!
+
+INSERT text77
+________________________________________________________________
+text :: IRON MAN 3, I feel like i'm getting pumped to go to a party but it's a movie ðŸ˜’
+
+Text is
+
+IRON    MAN     3,      I       feel    like    i'm     getting pumped  to      go      to      a       party   but     it's    a       movie   ðŸ˜’
+
+INSERT text78
+________________________________________________________________
+text :: RT @tomleao: a cada refresh que dou no rotten tomatoes, a cotaÃ§Ã£o de 'iron man 3' cai dois ou tres pontos (comeÃ§ou em 92%, ja esta em 78%) \u2026
+
+Text is
+
+RT      @tomleao:       a       cada    refresh que     dou     no      rotten  tomatoes,       a       cotaÃ§Ã£o       de      'iron   man     3'      cai     dois    ou      tres    pontos (comeÃ§ou        em      92%,    ja      esta    em      78%)    \u2026
+
+INSERT text79
+________________________________________________________________
+text :: IT'S MIDNIGHT! IRON MAN 3! #ironman3 #midnight http://t.co/hOqV0QV79I
+
+Text is
+
+IT'S    MIDNIGHT!       IRON    MAN     3!      #ironman3       #midnight       http://t.co/hOqV0QV79I
+
+INSERT text80
+________________________________________________________________
+text :: Iron Man 3 ! Fuck Yess!
+
+Text is
+
+Iron    Man     3       !       Fuck    Yess!
+
+INSERT text81
+________________________________________________________________
+text :: RT @seriously1D: acabei de sair do cinema e iron man 3, apesar das cagadinhas, Ã© incrÃ­vel! to apx como sempre
+
+Text is
+
+RT      @seriously1D:   acabei  de      sair    do      cinema  e       iron    man     3,      apesar  das     cagadinhas,     Ã©      incrÃ­vel!      to      apx     como    sempre
+
+INSERT text82
+________________________________________________________________
+text :: Time can you move faster please I'm tryna go watch iron man 3!!
+
+Text is
+
+Time    can     you     move    faster  please  I'm     tryna   go      watch   iron    man     3!!
+
+INSERT text83
+________________________________________________________________
+text :: Iron Man 3 was amazingggg.
+
+Text is
+
+Iron    Man     3       was     amazingggg.
+
+INSERT text84
+________________________________________________________________
+text :: 9 books in 5 days? Check. Reviews written? Check. Escape plan plotted for Iron Man 3 tomorrow? YES PLZ!
+
+Text is
+
+9       books   in      5       days?   Check.  Reviews written?        Check.  Escape  plan    plotted for     Iron    Man     3       tomorrow?       YES     PLZ!
+
+INSERT text85
+________________________________________________________________
+text :: RT @ewiiicc: Iron man 3 sonnnn ðŸ˜ˆ
+
+Text is
+
+RT      @ewiiicc:       Iron    man     3       sonnnn  ðŸ˜ˆ
+
+INSERT text86
+________________________________________________________________
+text :: SPOILERS: Post credits scene of Iron Man 3 includes an incredibly outdated Gangnam Style reference.
+
+Text is
+
+SPOILERS:       Post    credits scene   of      Iron    Man     3       includes        an      incredibly      outdated        Gangnam Style   reference.
+
+INSERT text87
+________________________________________________________________
+text :: RT @samAfuckingA: Iron man 3 was so fucking good.
+
+Text is
+
+RT      @samAfuckingA:  Iron    man     3       was     so      fucking good.
+
+INSERT text88
+________________________________________________________________
+text :: Iron Man 3 premiereðŸ˜Ž
+
+Text is
+
+Iron    Man     3       premiereðŸ˜Ž
+
+INSERT text89
+________________________________________________________________
+text :: RT @Dreads__Cooling: Iron man 3 should be good
+
+Text is
+
+RT      @Dreads__Cooling:       Iron    man     3       should  be      good
+
+INSERT text90
+________________________________________________________________
+text :: Iron Man 3 and shit ðŸ˜ðŸ‘
+
+Text is
+
+Iron    Man     3       and     shit    ðŸ˜ðŸ‘
+
+INSERT text91
+________________________________________________________________
+text :: "@Josuee_ener: "@_zohar: Iron Man 3 in a bit ^.^" where you going!?!??!?!" To the theaters duh! -.- lol jk the krikorian
+
+Text is
+
+"@Josuee_ener:  "@_zohar:       Iron    Man     3       in      a       bit     ^.^"    where   you     going!?!??!?!"  To      the     theaters        duh!    -.-     lol     jk      the    krikorian
+
+INSERT text92
+________________________________________________________________
+text :: Iron man 3 was Ight. #notthebest
+
+Text is
+
+Iron    man     3       was     Ight.   #notthebest
+
+INSERT text93
+________________________________________________________________
+text :: I'm going to see Iron Man 3 tomorrow night, so likely going to avoid tumblr and in general the Internet until then.
+
+Text is
+
+I'm     going   to      see     Iron    Man     3       tomorrow        night,  so      likely  going   to      avoid   tumblr  and     in      general the     Internet        until   then.
+
+INSERT text94
+________________________________________________________________
+text :: Iron Man 3, was the best one yet.
+
+Text is
+
+Iron    Man     3,      was     the     best    one     yet.
+
+INSERT text95
+________________________________________________________________
+text :: Some people are at the Iron Man 3 premiere and I'm over here like http://t.co/TAaLaRsuoe
+
+Text is
+
+Some    people  are     at      the     Iron    Man     3       premiere        and     I'm     over    here    like    http://t.co/TAaLaRsuoe
+
+INSERT text96
+________________________________________________________________
+text :: I unlocked the Marvel's Iron Man 3 Coming Soon sticker on #GetGlue! http://t.co/hqMmW1xkOm
+
+Text is
+
+I       unlocked        the     Marvel's        Iron    Man     3       Coming  Soon    sticker on      #GetGlue!       http://t.co/hqMmW1xkOm
+
+INSERT text97
+________________________________________________________________
+text :: Iron Man 3. â¤ &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+
+Text is
+
+Iron    Man     3.      â¤      &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+
+INSERT text98
+________________________________________________________________
+text :: Chyeahhh!!!! (@ Regal St. Louis Mills Stadium 18 &amp; IMAX - @regalmovies for Iron Man 3 w/ 5 others) http://t.co/quMCB405SF
+
+Text is
+
+Chyeahhh!!!!    (@      Regal   St.     Louis   Mills   Stadium 18      &amp;   IMAX    -       @regalmovies    for     Iron    Man     3       w/      5       others) http://t.co/quMCB405SF
+
+INSERT text99
+________________________________________________________________
+text :: Iron Man 3 was ....good
+
+Text is
+
+Iron    Man     3       was     ....good
+
+
+WELCOME TO MY PROJECT
+****************************************************************
+INSERTED THE TEXT STRINGS(KEY/VALUE PAIRS) OF ALL THE SLOTS IN TO THE HASHMAP
+****************************************************************
+THE MOST ITERATED STRINGS STORED IN THE HASHMAP ARE
+
+
+Man
+Iron
+IMAX
+#GetGlue!
+sticker
+Soon
+Coming
+Marvel's
+unlocked
+I'm
+see
+man
+you
+good.
+fucking
+@samAfuckingA:
+iron
+watch
+MAN
+IRON
+The
+with
+tonight
+ver
+wanna
+nonton
+
+****************************************************************
+****************************************************************
+
+ENTER THE TWO STRINGS FOR COMPARISION
+ENTER THE FIRST STRING
+Iron
+ENTER THE SECOND STRING
+Man
+________________________________________________________________
+
+INDUVIDUAL NO OF TIMES FIRST STRING PRESENT IS 74
+
+INDUVIDUAL NO OF TIMES FIRST STRING PRESENT IS 63
+
+NUMBER OF TIMES BOTH THE STRING Iron & ManARE SEEN TOGEATHER IS 68
+
+
+-------------------------------------------------------------------
+CALCULATING PERCENTAGE OF BONDING
+-------------------------------------------------------------------
+THE PERCENTAGE OF BONDING FOR Iron with Man is 91.8919
+THE PERCENTAGE OF BONDING FOR Man with Iron is 107.937
+
+DO YOU WANT TO CONTINUE y/n
+n
+REMOVED ALL  DATA BY CLEARING THE MEMORY
+THANKS BYE
+
